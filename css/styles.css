@@ -1,9 +1,12 @@
 h1{
-  color: blue;
+  background-color: rgb(120,18,12);
+  color: red;
   text-align:center;
   }
 
   h2{
+    color:red;
+    background-color: inherit;
     fonts: italic;
     text-align: center;
   }
