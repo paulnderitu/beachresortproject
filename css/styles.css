@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  text-align:center;
+  }
+
+  h2{
+    fonts: italic;
+    text-align: center;
+  }
+  p{
+    font-family: sans-serif;
+  }
+  body{
+    background-color: powderblue;
+  }
+  ul{
+    font-size:20px;
+    line-height:30px:
+  }
